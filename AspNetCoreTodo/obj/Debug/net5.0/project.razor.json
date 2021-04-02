@@ -15628,6 +15628,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/rosapires/Projects/ProtoXYZ/NET-tutorial/AspNetCoreTodo/AspNetCoreTodo/Views/ToDo/Index.cshtml",
+      "TargetPath": "Views\\ToDo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/rosapires/Projects/ProtoXYZ/NET-tutorial/AspNetCoreTodo/AspNetCoreTodo/Views/Shared/_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"

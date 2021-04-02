@@ -79,3 +79,4 @@
 /Users/rosapires/Projects/ProtoXYZ/NET-tutorial/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/net5.0/ref/AspNetCoreTodo.dll
 /Users/rosapires/Projects/ProtoXYZ/NET-tutorial/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/net5.0/AspNetCoreTodo.pdb
 /Users/rosapires/Projects/ProtoXYZ/NET-tutorial/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/net5.0/AspNetCoreTodo.genruntimeconfig.cache
+/Users/rosapires/Projects/ProtoXYZ/NET-tutorial/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/net5.0/Razor/Views/ToDo/Index.cshtml.g.cs
