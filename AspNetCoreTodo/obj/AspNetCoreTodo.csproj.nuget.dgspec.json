@@ -57,6 +57,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[5.0.4, )"
+            },
+            "humanizer": {
+              "target": "Package",
+              "version": "[2.8.26, )"
             }
           },
           "imports": [
